@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm O'Neal Ombu</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate web designer, wordpress developer and a frontend developer</h3>
 
-- 🌱 I’m currently learning **React and VueJS**
+- 🌱 I’m currently learning **ReactJS, VueJS and React Native**
 
 - 👨‍💻 All of my projects are available at [https://www.onealombu.xyz](https://www.onealombu.xyz)
 
