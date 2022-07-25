@@ -22,7 +22,7 @@
 - 📄 Know about my experiences [https://www.onealombu.xyz/resume](https://www.onealombu.xyz/resume)
 
 <br>
-<p align="left"> <a href="https://twitter.com/@ombuwebdev" target="blank"><img src="https://img.shields.io/twitter/follow/@ombuwebdev?logo=twitter&style=for-the-badge" alt="@ombuwebdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ombuwebdev" target="blank"><img src="https://img.shields.io/twitter/follow/ombuwebdev?logo=twitter&style=for-the-badge" alt="ombuwebdev" /></a> </p>
 <br>
 
 <h3 align="left">Connect with me:</h3>
