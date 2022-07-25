@@ -1,6 +1,12 @@
-<p><img align="right" src="https://github.com/ombudev/animation_500_kxa883sd.gif" alt="ombudev" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ombudev&label=Profile%20views&color=0e75b6&style=flat" alt="ombudev" /> </p>
+
+
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=ombudev&label=Profile%20views&color=0e75b6&style=flat"
+    alt="ombudev" /> 
+  </p>
+
+<br>
+<p><img align="right" src="https://github.com/ombudev/ombudev/blob/main/animation_500_kxa883sd.gif" alt="ombudev" /></p>
 
 <h1 align="center">Hi 👋🏾, I'm O'Neal Ombu</h1>
 <h3 align="center">A passionate web designer, wordpress developer and a frontend developer</h3>
@@ -14,6 +20,8 @@
 - 📫 How to reach me **hello@onealombu.xyz**
 
 - 📄 Know about my experiences [https://www.onealombu.xyz/resume](https://www.onealombu.xyz/resume)
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
