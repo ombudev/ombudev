@@ -1,3 +1,7 @@
+<p><img align="right" src="https://github.com/ombudev/ombudev/main/animation_500_kxa883sd.gif" alt="ombudev" /></p>
+
+
+
 <h1 align="center">Hi 👋🏾, I'm O'Neal Ombu</h1>
 <h3 align="center">A passionate web designer, wordpress developer and a frontend developer</h3>
 
