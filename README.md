@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **ReactJS, VueJS and React Native**
 
-- 👨‍💻 All of my projects are available at [https://www.onealombu.xyz](https://www.onealombu.xyz)
+- 👨‍💻 All of my projects are available at [https://www.onealombu.xyz](https://www.onealombu.xyz) [https://www.github.com/ombudev](https://www.github.com/ombudev)
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
