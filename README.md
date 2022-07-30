@@ -10,6 +10,7 @@
 
 <h1 align="center">Hi 👋🏾, I'm O'Neal Ombu</h1>
 <h3 align="center">A passionate web designer, wordpress developer and a frontend developer</h3>
+<h3>Innovative, task-driven professional with 8+ years of experience in web design and development across diverse industries. Equipped with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation. Proficient in developing databases, creating user interfaces, writing and testing codes, troubleshooting simple and complex issues and implementing new features based on user feedback.</h3>
 
 - 🌱 I’m currently learning **ReactJS, VueJS and React Native**
 
