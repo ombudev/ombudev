@@ -11,11 +11,12 @@
 <h1 align="center">Hi 👋🏾, I'm O'Neal Ombu</h1>
 <h3>I create responsive websites and lamp stack applications that are fast, easy to use, and built with the best practices.→ github.com/ombudev #LAMPSTACK</h3>
 
-- 🌱 I’m currently learning **ReactJS, VueJS and React Native**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP/MYSQL**
+
 
 - 👨‍💻 All of my projects are available at [https://www.onealombu.xyz](https://www.onealombu.xyz) [https://www.github.com/ombudev](https://www.github.com/ombudev)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, PHP/MYSQL**
+- 🌱 I’m currently learning **ReactJS, VueJS and React Native**
 
 - 📫 How to reach me **hello@onealombu.xyz**
 
