@@ -9,13 +9,13 @@
 <p><img align="right" src="https://github.com/ombudev/ombudev/blob/main/animation_500_kxa883sd.gif" alt="ombudev" /></p>
 
 <h1 align="center">Hi 👋🏾, I'm O'Neal Ombu</h1>
-<h3>Innovative, task-driven professional with 8+ years of experience in web design and development across diverse industries. Equipped with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation. Proficient in developing databases, creating user interfaces, writing and testing codes, troubleshooting simple and complex issues and implementing new features based on user feedback.</h3>
+<h3>I create responsive websites and lamp stack applications that are fast, easy to use, and built with the best practices.→ github.com/ombudev #LAMPSTACK</h3>
 
 - 🌱 I’m currently learning **ReactJS, VueJS and React Native**
 
 - 👨‍💻 All of my projects are available at [https://www.onealombu.xyz](https://www.onealombu.xyz) [https://www.github.com/ombudev](https://www.github.com/ombudev)
 
-- 💬 Ask me about **HTML, CSS and JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP/MYSQL**
 
 - 📫 How to reach me **hello@onealombu.xyz**
 
